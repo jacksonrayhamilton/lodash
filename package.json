@@ -1,5 +1,5 @@
 {
-  "name": "lodash-es",
+  "name": "lodash-es-mjs",
   "version": "4.17.4",
   "description": "Lodash exported as ES modules.",
   "keywords": "es6, modules, stdlib, util",
